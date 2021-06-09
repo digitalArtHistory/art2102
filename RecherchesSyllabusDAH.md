@@ -66,7 +66,7 @@ Prof: [Tracy Chapman Hamilton](https://tracychapmanhamilton.com/)
 
 Guest speakers  <!-- inviter des personnes pour  présenter des projets? -->
 
-#### Structure:
+#### Structure
 
 1. introduction + visite au workshop
 2. Suite intro + Digitalscanning, rendering  and fabrication (intro) + présentateur·rice invité·e
@@ -157,6 +157,20 @@ https://history.unc.edu/wp-content/uploads/sites/804/2018/08/HIST890_During.pdf
 https://www.uu.se/en/admissions/master/selma/kursplan/?kpid=37243&type=1 (pas d'information disponible)
 
 
+
+## DH
+
+### Introduction to methods for digital humanities (MTEH4DH-2014)
+
+https://moodle.helsinki.fi/course/view.php?id=25558
+
+#### Structure
+
+1. Introduction: three approaches to methods for digital humanists
+   - Easy, ready-made tools for visualization and exploration
+   - Fundamentals of programming for data processing
+   - Data analysis method literacy
+2. Different types of data, d
 
 ## Publication
 
